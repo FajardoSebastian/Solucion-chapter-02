@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+
+p{
+    font-family: 'Sans Serif';
+    font-size: 15px;
+}
+
+input [type=file] {
+    border: 2px, solid black;
+    border-bottom: 3px;
+    }
+input[type=submit]{
+    border: 2px, solid black;
+    border-bottom: 3px;
+}
